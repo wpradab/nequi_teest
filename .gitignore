@@ -1,0 +1,15 @@
+# Ignorar todos los archivos CSV
+*.csv
+
+# Ignorar todos los archivos JSON
+*.json
+
+# Ignorar archivos .env (variables de entorno)
+.env
+
+
+
+# Opcional: Carpeta de datos si tienes una carpeta llamada data
+# /data/
+
+# Puedes añadir más reglas según lo necesites
